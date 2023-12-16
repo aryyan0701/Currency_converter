@@ -1,0 +1,38 @@
+# Currency Converter
+
+![Currency Converter](link_to_project_screenshot_or_logo.png)
+
+## Overview
+
+Currency Converter is a web application that allows users to convert currencies easily. The application provides real-time exchange rates, making it simple for users to perform accurate and quick currency conversions.
+
+## Features
+
+- **User-Friendly Interface:** Clean and intuitive design for a seamless user experience.
+- **Real-Time Exchange Rates:** Access the latest exchange rates for accurate conversions.
+- **Responsive Design:** Ensures a consistent experience across various devices and screen sizes.
+- **Currency Flags:** Visual representation of currencies for easy identification.
+- **Accessibility:** Designed with accessibility in mind, making it usable for everyone.
+
+## Screenshots
+
+Include screenshots or GIFs of your application to provide a visual representation.
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- REST API
+
+## Dependencies
+
+- Font Awesome: [Link to Font Awesome](https://fontawesome.com/)
+- Flags API: [Link to Flags API](https://flagsapi.com/)
+
+## How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/currency-converter.git
+   cd currency-converter
